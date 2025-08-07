@@ -56,7 +56,7 @@ export default function ServicesAccordion() {
                         {services.map((service, index) => (
                             <div
                                 key={index}
-                                className="bg-[#111] rounded-xl mb-6 p-4 shadow-lg"
+                                className="bg-[#111] rounded-xl md:w-[80%]  mb-3 p-4 shadow-lg"
                             >
                                 <button
                                     onClick={() => toggleAccordion(index)}
@@ -66,7 +66,7 @@ export default function ServicesAccordion() {
                                         <span className="text-white font-bold">
                                             {service.number}
                                         </span>
-                                        <span className="text-white font-semibold">
+                                        <span className="text-white text-2xl font-semibold">
                                             {service.title}
                                         </span>
                                     </div>
@@ -87,7 +87,7 @@ export default function ServicesAccordion() {
                             </div>
                         ))}
                     </div>
-                    <img className="md:h-134 rounded-xl" src={logo} alt="" />
+                    <img className="md:h-133 rounded-xl" src={logo} alt="" />
                 </div>
             </div>
         </section>

@@ -4,11 +4,11 @@ import 'slick-carousel/slick/slick-theme.css'
 import logo from '../../../public/asset/from.png'
 
 const images = [
-    '../../../public/asset/one.png',
-    '../../../public/asset/two.png',
-    '../../../public/asset/three.png',
-    '../../../public/asset/four.png',
-    '../../../public/asset/six.png',
+    'https://i.ibb.co.com/gbYshLJ4/four.png',
+    'https://i.ibb.co.com/WWBhXkrt/two.png',
+    'https://i.ibb.co.com/rRfmsVvP/one.png',
+    'https://i.ibb.co.com/p61H2Gyx/six.png',
+    'https://i.ibb.co.com/tw5cpFTR/three.png',
 ]
 
 const ImageCarousel = () => {
