@@ -47,9 +47,7 @@ export default function ServicesAccordion() {
     return (
         <section className="bg-black min-h-screen flex items-center justify-center px-4 py-16">
             <div className="w-full max-w-6xl">
-                <h2 className="text-white text-3xl font-bold mb-10">
-                    Our Services
-                </h2>
+              
 
                 <div className="flex flex-col   md:w-7xl  md:flex-row-reverse gap-8 justify-between">
                     <div className="w-full">
