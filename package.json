@@ -10,10 +10,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@headlessui/react": "^2.2.7",
+    "@heroicons/react": "^2.2.0",
     "@tailwindcss/vite": "^4.1.11",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-responsive-carousel": "^3.2.23",
+    "react-slick": "^0.31.0",
+    "react-tabbordion": "^1.0.6",
+    "slick-carousel": "^1.8.1",
     "tailwindcss": "^4.1.11"
   },
   "devDependencies": {
