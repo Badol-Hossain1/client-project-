@@ -44,25 +44,25 @@ export const projectData = [
     {
       id: 1,
       title: 'Vatamen Website',
-      image: '../../public/asset/image.png',
+      image: 'https://i.ibb.co.com/BXp8CDw/image.png',
       roles: ['Design', 'Development', 'Project Insight'],
     },
     {
       id: 2,
       title: 'NIA Website',
-      image: '../../public/asset/im.png',
+      image: 'https://i.ibb.co.com/TBcQSk1v/im.png',
       roles: ['Design', 'Development', 'Project Insight'],
     },
     {
       id: 3,
       title: 'FIREFLY TV Website',
-      image: '../../public/asset/hi.png',
+      image: 'https://i.ibb.co.com/Y4w8PyV3/no.png',
       roles: ['Design', 'Development', 'Project Insight'],
     },
     {
       id: 4,
       title: 'LEOFFR Website',
-      image:'../../public/asset/no.png',
+      image:'https://i.ibb.co.com/HJvjqVY/hi.png',
       roles: ['Design', 'Development', 'Project Insight'],
     },
   ];

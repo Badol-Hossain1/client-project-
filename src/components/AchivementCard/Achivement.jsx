@@ -3,27 +3,27 @@ import React from 'react';
 const projects = [
   {
     id: 1,
-    title: "Vatamen Website",
-    image: "/images/vatamen.jpg",
-    roles: ["Design", "Development", "Project Insight"],
+    title: 'Vatamen Website',
+    image: '../../public/asset/image.png',
+    roles: ['Design', 'Development', 'Project Insight'],
   },
   {
     id: 2,
-    title: "NIA Website",
-    image: "/images/nia.jpg",
-    roles: ["Design", "Development", "Project Insight"],
+    title: 'NIA Website',
+    image: 'https://ibb.co.com/tMB0t4zm',
+    roles: ['Design', 'Development', 'Project Insight'],
   },
   {
     id: 3,
-    title: "FIREFLY TV Website",
-    image: "/images/firefly.jpg",
-    roles: ["Design", "Development", "Project Insight"],
+    title: 'FIREFLY TV Website',
+    image: '../../public/asset/hi.png',
+    roles: ['Design', 'Development', 'Project Insight'],
   },
   {
     id: 4,
-    title: "LEOFFR Website",
-    image: "/images/leoffer.jpg",
-    roles: ["Design", "Development", "Project Insight"],
+    title: 'LEOFFR Website',
+    image:'../../public/asset/no.png',
+    roles: ['Design', 'Development', 'Project Insight'],
   },
 ];
 
